@@ -8,7 +8,7 @@ KanadeOnlineJudge(KOJ)とは、自分が[Sharif Judge](https://github.com/mjnade
 ### 登録について。
 登録には招待コード、メールアドレス、パスワードが必要です。  
 メールアドレスが間違っているとパスワードの再設定ができませんので注意してください。  
-招待コードはこのページの一番下に記載しています。
+招待コード 10327
 
 ### 使用方法
 ログイン後、左のメニューからAssignmentsを選択すると現在公開されている問題に挑戦することができます。![choose](https://user-images.githubusercontent.com/47267817/62439247-25409180-b786-11e9-990a-b0d7239e1d5a.png)挑戦したいコンテストを選んでチェックバーにチェックを入れた後、メニュー欄からProblemsを選択すると問題が出てきます。
@@ -30,6 +30,3 @@ KanadeOnlineJudge(KOJ)とは、自分が[Sharif Judge](https://github.com/mjnade
 ### 今後の予定
 - https対応
 - 問題作成用READMEを作る
-
-招待コード 10327
-
