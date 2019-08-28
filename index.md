@@ -23,7 +23,7 @@ KanadeOnlineJudge(KOJ)とは、自分が[Sharif Judge](https://github.com/mjnade
 ### 環境について
 対応している言語はC,C++,Java,Python2,Python3です。ただしデバッグはPython3のみで行なっているため、他の言語ではエラーが発生する場合があります。もしエラーを見つけた場合はissue欄で報告をお願いします。
 基本的にメモリは50000kBまで,実行時間はC/C++が500ms,Pythonは1500ms,Javaは2000msまでとしています。ファイルサイズは50kBまでです。  
-安全のため提出されたプログラムはsandbox上で実行していますが、一部のライブラリ等の使用を制限していますのでご了承ください。
+安全のため提出されたプログラムはsandbox上で実行していますが、一部のライブラリ等の使用（python3のos等）を制限していますのでご了承ください。
 ### 困ったときは？
 ジャッジがうまくいかない場合は[サンプルコード](https://github.com/kanade9/KanadeOnlineJudge/tree/master/samplecode)も試してみてください。
 ### 今後の予定
