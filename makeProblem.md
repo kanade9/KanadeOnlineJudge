@@ -11,7 +11,7 @@ markdown形式（おすすめ）で問題文のファイルを作成してくだ
 
 #### 2, テストケースの作成
 ローカル環境で以下のような構成でファイルを作成します。入力input1に対してoutput1が出力となるように作ってください。以下全てのテストケースに対して作ります。
-![サンプル構成](https://github.com/kanade9/KanadeOnlineJudge/issues/1#issuecomment-533972519)
+![サンプル構成](https://user-images.githubusercontent.com/47267817/65404962-c908fe00-de15-11e9-9306-becfe187bad6.png)
 
 #### 3, テストケースの圧縮
 2で作成したテストケースをzip形式で圧縮します。必ず以下のコマンドを用いて圧縮するようにしてください。  
@@ -24,7 +24,7 @@ $ zip archive -r "dir_name"
 サイトにアクセスし、Assignmentからaddを選択します。
 Assignment Name,Start Time,Finish Timeを設定し、Open,Scoreboardにチェックを入れます。  
 Problemの横の+を選択し、問題を増やします。今回は2問なので2問になるように増やしましょう。  
-![問題作成サンプル](https://github.com/kanade9/KanadeOnlineJudge/issues/1#issuecomment-533981092)
+![問題作成サンプル](https://user-images.githubusercontent.com/47267817/65406755-73cfeb00-de1b-11e9-9cd3-d1af2163fff7.png)
 Add Assignmentを選択し、問題の提出が完了します！！  
 
 
