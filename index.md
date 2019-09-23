@@ -32,4 +32,3 @@ KanadeOnlineJudge(KOJ)とは、自分が[Sharif Judge](https://github.com/mjnade
 - 問題作成用READMEを作る
 
 招待コード 10327
-
