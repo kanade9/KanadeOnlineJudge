@@ -26,6 +26,7 @@ KanadeOnlineJudge(KOJ)とは、自分が[Sharif Judge](https://github.com/mjnade
 安全のため提出されたプログラムはsandbox上で実行していますが、一部のライブラリ等の使用（python3のos等）を制限していますのでご了承ください。
 ### 困ったときは？
 ジャッジがうまくいかない場合は[サンプルコード](https://github.com/kanade9/KanadeOnlineJudge/tree/master/samplecode)も試してみてください。
-### 今後の予定
-- https対応
-- 問題作成用READMEを作る
+
+### 問題の作成について
+以下のファイルに記載してあります
+[問題作成について](https://github.com/kanade9/KanadeOnlineJudge/blob/master/makeProblem.md)
